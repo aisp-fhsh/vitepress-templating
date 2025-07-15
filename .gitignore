@@ -1,4 +1,12 @@
-node_modules/
+# For MacOSX
 .DS_Store
-cache
-dist
+
+# For npm
+node_modules/
+
+# For Env
+.env
+
+# For Vitepress
+cache/
+dist/
