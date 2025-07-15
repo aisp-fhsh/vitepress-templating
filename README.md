@@ -33,9 +33,9 @@ cd YOUR_REPOSITORY
 npm install
 ```
 
-### 本機開發
+### Localhost 開發
 
-執行以下指令，即可在您的本機端啟動開發伺服器：
+執行以下指令，即可在您的 Localhost 啟動開發伺服器：
 
 ```bash
 npm run docs:dev
