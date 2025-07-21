@@ -11,6 +11,12 @@
 
 這是一個使用 [VitePress](https://vitepress.dev/) 建立的說明文件網站範本。您可以直接使用此範本來建立您的專案文件。
 
+> [!IMPORTANT]
+> 這個版本增加了一個小功能，將原本要進入 `docs/.vitepress/config.mjs` 才能設定的 nav 跟 sidebar 抽離，
+> 分別放到 `nav.yaml` 及 `sidebar.yaml` 中。
+>
+> 這樣就不用特別跑到 `config.mjs` 中去修改，也會比較好看一點 👍👍👍。
+
 ## ✨ 功能特色
 
 *   **VitePress 驅動**：享受 VitePress 帶來的極速開發體驗與強大功能。
