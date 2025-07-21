@@ -26,7 +26,7 @@ export default defineConfig({
     // 👇👇👇 查看 https://vitepress.dev/reference/default-theme-config#sociallinks
     socialLinks: [
       { icon: 'github', link: 'https://github.com/aisp-fhsh/vitepress-templating' },
-      { icon: { svg: "<img src='/New%20AISP%20Logo%20Icon.svg' alt='AISP Logo' width='80%' height='80%' />" }, link: 'https://security-program.fhsh.taipei'}
+      { icon: { svg: "<img src='New%20AISP%20Logo%20Icon.svg' alt='AISP Logo' width='80%' height='80%' />" }, link: 'https://security-program.fhsh.taipei'}
     ]
   }
 })
