@@ -92,7 +92,7 @@ npm run docs:build
 
 ## 📝 更新日誌 (CHANGELOG)
 
-### v1.0.1 (2025-07-21) ✨
+### ✨✨✨ v1.0.1 (2025-07-21) ✨✨✨
 
 *   **🚀 Feat(customization):** 新增 `nav.yaml` 及 `sidebar.yaml`，讓使用者能更方便地客製化導覽列與側邊欄。 YAML 檔案的引入，讓設定檔更簡潔了！
 *   **📝 Docs(readme):** 更新 `README.md` 中的客製化說明，並增加了 CHANGELOG。
