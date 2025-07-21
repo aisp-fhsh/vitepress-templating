@@ -7,7 +7,7 @@
 > [!NOTE]
 > Author: @CXPhoenix
 >
-> version: v1.0.0
+> version: v1.0.1
 
 這是一個使用 [VitePress](https://vitepress.dev/) 建立的說明文件網站範本。您可以直接使用此範本來建立您的專案文件。
 
@@ -81,6 +81,18 @@ npm run docs:build
 *   **網站內容**：
     *   在 `docs` 目錄下新增或修改 Markdown (`.md`) 檔案，即可新增或修改頁面內容。
     *   首頁內容位於 `docs/index.md`。
+
+## 📝 更新日誌 (CHANGELOG)
+
+### ✨✨✨ v1.0.1 (2025-07-21) ✨✨✨
+
+> [!TIP]
+> 此版本在 branch `feat/yaml-doc-defined` 中。
+>
+> 新版本不會 merge 入 branch `main` 中。
+
+*   **🚀 Feat(customization):** 新增 `nav.yaml` 及 `sidebar.yaml`，讓使用者能更方便地客製化導覽列與側邊欄。 YAML 檔案的引入，讓設定檔更簡潔了！
+*   **📝 Docs(readme):** 更新 `README.md` 中的客製化說明，並增加了 CHANGELOG。
 
 ## 📄 授權
 
