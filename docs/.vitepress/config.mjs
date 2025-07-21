@@ -11,21 +11,10 @@ export default defineConfig({
   themeConfig: {
     
     // 👇👇👇 查看 https://vitepress.dev/reference/default-theme-nav
-    nav: [
-      { text: "Home", link: "/" },
-      { text: "Examples", link: "/markdown-examples" },
-    ],
+    nav: navbar,
 
     // 👇👇👇 查看 https://vitepress.dev/reference/default-theme-sidebar
-    sidebar: [
-      {
-        text: "Examples",
-        items: [
-          { text: "Markdown 使用範例", link: "/markdown-examples" },
-          { text: "Runtime API 使用範例", link: "/api-examples" },
-        ],
-      },
-    ],
+    sidebar: sidebar,
 
     // 👇👇👇 查看 https://vitepress.dev/reference/default-theme-config#sociallinks
     socialLinks: [
