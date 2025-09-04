@@ -101,4 +101,4 @@ npm run docs:build
 
 ## 📄 授權
 
-本專案採用 [MIT License](LICENSE)。
+本專案採用 [CC-BY 4.0](LICENSE)。
