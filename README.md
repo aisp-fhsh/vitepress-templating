@@ -2,7 +2,7 @@
 
 ![Vitepress](https://img.shields.io/badge/Vitepress-v1.6.3-646CFF?logo=vite&logoColor=fff&labelColor=8A2BE2)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/Template_v1.0.0-9fa?logo=github&logoColor=white&label=Github%20Pages&labelColor=121013)
+![GitHub Pages](https://img.shields.io/badge/Template_v1.1.0-9fa?logo=github&logoColor=white&label=Github%20Pages&labelColor=121013)
 
 > [!NOTE]
 > Author: @CXPhoenix
