@@ -84,7 +84,12 @@ npm run docs:build
 
 ## 📝 更新日誌 (CHANGELOG)
 
-### ✨✨✨ v1.0.1 (2025-07-21) ✨✨✨
+### ✨✨✨ v1.1.0 (2025-09-04) ✨✨✨
+
+*   **✨ Feat(ci):** 改善 GitHub Actions 部署流程，在 build command 中動態傳入 `base`，以自動適應 repository 名稱。
+*   **🔧 Chore(config):** 刪除 `docs/.vitepress/config.mjs` 中多餘的 `base` 設定。
+
+### v1.0.1 (2025-07-21)
 
 > [!TIP]
 > 此版本在 branch `feat/yaml-doc-defined` 中。
