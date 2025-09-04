@@ -7,7 +7,7 @@
 > [!NOTE]
 > Author: @CXPhoenix
 >
-> version: v1.0.1
+> version: v1.1.0
 
 這是一個使用 [VitePress](https://vitepress.dev/) 建立的說明文件網站範本。您可以直接使用此範本來建立您的專案文件。
 
